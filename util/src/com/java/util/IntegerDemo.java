@@ -1,7 +1,5 @@
 package com.java.util;
 
-
-
 /**
  * Integer类的练习
  * @author 王龙傲
