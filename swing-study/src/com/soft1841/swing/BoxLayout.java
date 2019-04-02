@@ -5,8 +5,8 @@ import org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper;
 import javax.swing.*;
 import java.awt.*;
 
-class BoxLayoutTest extends JFrame {
-    public BoxLayoutTest() {
+class BoxLayout extends JFrame {
+    public BoxLayout() {
         init();
         setTitle("BoxLayout布局");
         setSize(410, 730);
@@ -20,7 +20,7 @@ class BoxLayoutTest extends JFrame {
         setLayout(new BorderLayout(20, 20));
         //顶部面板
         JPanel topPanel = new JPanel();
-        BoxLayout boxLayout = new BoxLayout(topPanel, BoxLayout.X_AXIS);
+        javax.swing.BoxLayout boxLayout = new javax.swing.BoxLayout(topPanel, javax.swing.BoxLayout.X_AXIS);
         topPanel.setLayout(boxLayout);
         topPanel.setBackground(new Color(2, 181, 247));
         topPanel.setPreferredSize(new Dimension(414, 100));
@@ -37,8 +37,8 @@ class BoxLayoutTest extends JFrame {
         add(topPanel, BorderLayout.NORTH);
         //中间的middlePanel面板，垂直方向的BoxLayout布局
         JPanel middlePanel = new JPanel();
-        middlePanel.setLayout(new BoxLayout(middlePanel,
-                BoxLayout.Y_AXIS));
+        middlePanel.setLayout(new javax.swing.BoxLayout(middlePanel,
+                javax.swing.BoxLayout.Y_AXIS));
         //创建三个面板，加入middlePanel
         for (int i = 0; i < 3; i++) {
             JPanel jPanel = new JPanel();
@@ -65,6 +65,6 @@ class BoxLayoutTest extends JFrame {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        new BoxLayoutTest();
+        new BoxLayout();
     }
 }
