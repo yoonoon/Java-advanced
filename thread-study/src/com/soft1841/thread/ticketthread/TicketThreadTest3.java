@@ -1,6 +1,4 @@
-package com.soft1841.thread;
-
-import com.sun.javafx.image.BytePixelSetter;
+package com.soft1841.thread.ticketthread;
 
 public class TicketThreadTest3 {
     public static void main(String[] args) {

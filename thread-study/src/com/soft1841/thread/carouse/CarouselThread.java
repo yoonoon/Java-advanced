@@ -1,4 +1,4 @@
-package com.soft1841.thread;
+package com.soft1841.thread.carouse;
 
 import javax.swing.*;
 import java.io.*;

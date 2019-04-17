@@ -1,4 +1,4 @@
-package com.soft1841.thread;
+package com.soft1841.thread.ticketthread;
 
 public class TicketThreadTest1 {
     public static void main(String[] args) {
