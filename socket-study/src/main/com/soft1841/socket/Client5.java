@@ -7,7 +7,7 @@ import java.net.Socket;
 
 public class Client5 {
     public static void main(String[] args) throws IOException {
-        Socket client = new Socket("192.168.43.140", 10086);
+        Socket client = new Socket("192.168.43.109", 10086);
         System.out.println("成功连接上服务器！");
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(client.getInputStream()));
         String s = bufferedReader.readLine();
