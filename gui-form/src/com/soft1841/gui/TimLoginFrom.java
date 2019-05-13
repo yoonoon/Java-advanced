@@ -24,7 +24,7 @@ public class TimLoginFrom {
     }
 
     public static void main(String[] args) throws Exception {
-       // UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.windowsLookAndFeel");
+        UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.windowsLookAndFeel");
         JFrame frame = new JFrame("TimLoginFrom");
         frame.setContentPane(new TimLoginFrom().mainPanel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
