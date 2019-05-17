@@ -11,18 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f6d80b6-44fc-4b25-8412-59b8aa9f1026" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/top.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/softWareFrom.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/softWareFrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/bao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/biao .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/downn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/first.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/topp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/up.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrom.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,49 +32,51 @@
     <session id="1121238920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="45" />
           <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="form" value="8" />
-          <entry key="java" value="139" />
+          <entry key="form" value="10" />
+          <entry key="java" value="141" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="GUI_DESIGNER_FORM" value="8" />
-          <entry key="JAVA" value="139" />
+          <entry key="GUI_DESIGNER_FORM" value="10" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="11559" />
-          <entry key="txt" value="84" />
+          <entry key="java" value="11564" />
+          <entry key="txt" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11559" />
-          <entry key="PLAIN_TEXT" value="90" />
+          <entry key="JAVA" value="11564" />
+          <entry key="PLAIN_TEXT" value="100" />
         </counts>
       </usages-collector>
     </session>
@@ -85,27 +85,7 @@
     <favorites_list name="java-advanced" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrom.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,8 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/util/src/com/java/util/RandomDemo.java" />
-        <option value="$PROJECT_DIR$/util/src/com/java/util/RandomColor.java" />
         <option value="$PROJECT_DIR$/io-study/src/filmdemo/FilmDemo1.java" />
         <option value="$PROJECT_DIR$/io-study/src/hellodemo.java" />
         <option value="$PROJECT_DIR$/io-study/src/test/Test.java" />
@@ -171,6 +149,8 @@
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrom.java" />
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.java" />
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.form" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/softWareFrom.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/softWareFrom.form" />
       </list>
     </option>
   </component>
@@ -195,9 +175,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="503" />
-    <option name="y" value="148" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="365" />
+    <option name="y" value="49" />
     <option name="width" value="1481" />
     <option name="height" value="1087" />
   </component>
@@ -231,15 +211,7 @@
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="gui-form" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudMusicFrom" type="e9f4de52:FormNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="TimLoginFrom" type="e9f4de52:FormNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,10 +222,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="151" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="197" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557753214098" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558068605509" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -264,23 +237,23 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.soft1841.thread" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.soft1841.swing" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\JavaStudy\java-advanced\gui-form\src\img" />
-      <recent name="F:\JavaStudy\java-advanced\gui-form\src" />
-      <recent name="F:\JavaStudy\java-advanced\swing-study\src\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JavaStudy\java-advanced\gui-form\src\img" />
       <recent name="F:\JavaStudy\java-advanced\gui-form\jar" />
       <recent name="F:\JavaStudy\java-advanced\gui-form" />
       <recent name="F:\JavaStudy\java-advanced\thread-study\src\com\soft1841\thread\jar" />
       <recent name="F:\JavaStudy\java-advanced\swing-study\jar" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.soft1841.thread" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaStudy\java-advanced\gui-form\src\img" />
+      <recent name="F:\JavaStudy\java-advanced\gui-form\src" />
+      <recent name="F:\JavaStudy\java-advanced\swing-study\src\img" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.soft1841.swing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,20 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CloudMusicFrom">
-    <configuration name="Client5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.com.soft1841.socket.Client5" />
-      <module name="socket-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.com.soft1841.socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.softWareFrom">
     <configuration name="Client6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.com.soft1841.socket.Client6" />
       <module name="socket-study" />
@@ -361,20 +321,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="softWareFrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.softWareFrom" />
+      <module name="gui-form" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Client5" />
       <item itemvalue="Application.Server6" />
       <item itemvalue="Application.Client6" />
       <item itemvalue="Application.TimLoginFrom" />
       <item itemvalue="Application.CloudMusicFrom" />
+      <item itemvalue="Application.softWareFrom" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.softWareFrom" />
         <item itemvalue="Application.CloudMusicFrom" />
         <item itemvalue="Application.TimLoginFrom" />
         <item itemvalue="Application.Client6" />
         <item itemvalue="Application.Server6" />
-        <item itemvalue="Application.Client5" />
       </list>
     </recent_temporary>
   </component>
@@ -434,6 +407,10 @@
       <workItem from="1557704639317" duration="3112000" />
       <workItem from="1557707907724" duration="410000" />
       <workItem from="1557732176236" duration="5351000" />
+      <workItem from="1557753202828" duration="2345000" />
+      <workItem from="1557755616218" duration="111000" />
+      <workItem from="1557793331182" duration="1252000" />
+      <workItem from="1557797313819" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Demo">
       <created>1552359782624</created>
@@ -526,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557707634889</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="cloudMusicFrom">
+      <created>1557753266171</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557753266171</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94173000" />
+    <option name="totallyTimeSpent" value="97906000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,9 +527,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49920508" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49920508" visible="true" weight="0.18976545" />
       <window_info id="Structure" order="1" sideWeight="0.5007949" side_tool="true" weight="0.23027718" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -623,18 +606,10 @@
     <MESSAGE value="5" />
     <MESSAGE value="非文本传输" />
     <MESSAGE value="guiFrom" />
-    <option name="LAST_COMMIT_MESSAGE" value="guiFrom" />
+    <MESSAGE value="cloudMusicFrom" />
+    <option name="LAST_COMMIT_MESSAGE" value="cloudMusicFrom" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/io-study/src/test/Test.java" />
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BEButtonUI.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/ImageIcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1981">
-          <caret line="216" selection-start-line="216" selection-end-line="216" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/Code/Try/13/01/Admission.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -938,6 +913,12 @@
     <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrom.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/top.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -945,7 +926,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CloudMusicFrom.form">
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/softWareFrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/softWareFrom.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
   </component>
